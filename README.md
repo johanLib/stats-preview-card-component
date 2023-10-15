@@ -7,7 +7,7 @@
   <h2 align="center">Stats preview card component solution</h2>
   <p align="center">
   <!-- a modifier -->
-    <a href="https://www.frontendmentor.io/solutions/stats-preview-card-component"><strong>Frontend Mentor Challenge</strong></a>
+    <a href="https://www.frontendmentor.io/solutions/stats-preview-card-component-Lw3Zkwd7jt"><strong>Frontend Mentor Challenge</strong></a>
     <br />
     <br />
     <a href="https://johanlib.github.io/stats-preview-card-component/">View Demo</a>
@@ -22,7 +22,7 @@
 <div align="center">
   <!-- Profile -->
   <a href="https://www.frontendmentor.io/profile/seghiranas">
-    <img src="https://img.shields.io/badge/Profile-Melvin%20Aguilar-07043B?style=for-the-badge&logo=frontendmentor" alt="Anass Profile">
+    My Profile
   </a>
   <!-- Status -->
   <a href="#">
@@ -43,7 +43,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 <h2 align="center">Links</h2>
 
-- Solution URL: [Stats preview card component (Tailwind CSS) | Frontend Mentor](https://www.frontendmentor.io/solutions/#)
+- Solution URL: [Stats preview card component | Frontend Mentor](https://www.frontendmentor.io/solutions/#)
 - Live Site URL: [https://stats-preview-card-component-hdez.vercel.app/](https://johanlib.github.io/stats-preview-card-component/)
 
 <br>
