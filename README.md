@@ -21,7 +21,7 @@
 <!-- Bagdes -->
 <div align="center">
   <!-- Profile -->
-  <a href="https://www.frontendmentor.io/profile/seghiranas" style="background-color: red;">
+  <a href="https://www.frontendmentor.io/profile/seghiranas">
     My Profile
   </a>
   <!-- Status -->
