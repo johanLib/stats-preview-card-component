@@ -44,7 +44,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 <h2 align="center">Links</h2>
 
 - Solution URL: [Stats preview card component | Frontend Mentor](https://www.frontendmentor.io/solutions/#)
-- Live Site URL: [https://stats-preview-card-component-hdez.vercel.app/](https://johanlib.github.io/stats-preview-card-component/)
+- Live Site URL: [(https://johanlib.github.io/stats-preview-card-component/)](https://johanlib.github.io/stats-preview-card-component/)
 
 <br>
 
